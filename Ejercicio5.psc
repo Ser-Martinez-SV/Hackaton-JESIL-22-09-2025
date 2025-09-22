@@ -1,7 +1,7 @@
 Algoritmo Ejercicio5
 	suma = 0
 	num = 0
-	Escribir "Ingresa cuantos num quieres añadir : "
+	Escribir "Ingresa cuantos num quieres aÃ±adir : "
 	Leer num1
 	
 	Para lista <- 1 Hasta num1 Con Paso 1 Hacer
