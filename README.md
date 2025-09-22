@@ -19,8 +19,8 @@ Hackaton JESIL 22/09/2025
 
 9º) Divisores de un número positivo
 
-10) Tabla de multiplicar de los 10 primeros números con Repetir. Al final de la tabla de cada número se debe mostrar la suma de todas las multiplicaciones
+10º) Tabla de multiplicar de los 10 primeros números con Repetir. Al final de la tabla de cada número se debe mostrar la suma de todas las multiplicaciones
     
-11) Array de 10 con números aleatorios. El usuario inserta números positivos y si existe dentro del array lo sustituye por 0
+11º) Array de 10 con números aleatorios. El usuario inserta números positivos y si existe dentro del array lo sustituye por 0
     
-12) Matriz de 10x10 con números aleatorios. El usuario inserta números positivos y si existe dentro de la matriz lo sustituye por 0
+12º) Matriz de 10x10 con números aleatorios. El usuario inserta números positivos y si existe dentro de la matriz lo sustituye por 0
