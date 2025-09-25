@@ -19,7 +19,7 @@ Algoritmo Array10num
 		Para i <-1 Hasta 10 Con Paso 1 Hacer
 			//Si el número que ha introducido el usuario coincide con el número en la 
 			//posición i de la lista, lo sustituimos por 0
-			Si (n == numeros[i] Y n >= 0) Entonces 
+			Si (n == numeros[i] Y n > 0) Entonces 
 				numeros[i] = 0
 			FinSi
 		FinPara
