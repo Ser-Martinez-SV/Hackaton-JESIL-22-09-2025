@@ -11,9 +11,6 @@ Algoritmo Matriz_10_10
 			numeros[i,l] = Aleatorio(1,10)
 		FinPara
 	Fin Para
-	//Reiniciamos las variables que utilizamos para recorrer la matriz
-	i = 0 
-	l = 0
 	//Creamos un bucle para pedir 10 números al usuario
 	Para r<-1 Hasta 10 Con Paso 1 Hacer
 		Escribir "Introduce un número: ", Sin Saltar;
@@ -29,9 +26,6 @@ Algoritmo Matriz_10_10
 			FinPara
 		FinPara
 	Fin Para
-	//Nuevament reiniciamos las variables que utilizamos para recorrer la matriz
-	i = 0
-	l = 0
 	//Para terminar recorremos la la lista una vez modificada para imprimir número a número
 	Para i <-1 Hasta 10 Con Paso 1 Hacer
 		Para l<-1 Hasta 10 Con Paso 1 Hacer
